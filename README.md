@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SolombrinoIsmail
 - 👀 I’m interested in everything related to IT
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Angular and TDD 
 - 💞️ I’m looking to collaborate on (nothing atm.)
 - 📫 How to reach me isy.solombrino@gmail.com
 
