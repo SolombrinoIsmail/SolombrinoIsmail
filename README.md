@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything related to IT
 - 🌱 I’m currently learning Angular and TDD 
 - 💞️ I’m looking to collaborate on (nothing atm.)
-- 📫 How to reach me isy.solombrino@gmail.com
+- 📫 How to reach me ismail@solombrino.ch
 
 <!---
 SolombrinoIsmail/SolombrinoIsmail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
