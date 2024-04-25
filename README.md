@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SolombrinoIsmail
 - 👀 I’m interested in everything related to IT
-- 🌱 I’m currently learning Angular and TDD 
+- 🌱 I’m currently learning Cloud Native and Microservices
 - 💞️ I’m looking to collaborate on (nothing atm.)
 - 📫 How to reach me ismail@solombrino.ch
 
